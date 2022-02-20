@@ -9,6 +9,6 @@ An example input as follows:
 The highest forms of understanding we can achieve are laughter and human compassion. Richard Feynman
 
 An example output as follows:
- 8 bit checksum is        1 for all  101 chars
+8  bit checksum is        1 for all  101 chars
 16 bit checksum is     b1ba for all  102 chars
 32 bit checksum is 321cd7ff for all  104 chars
